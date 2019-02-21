@@ -1,0 +1,10 @@
+13-02-2019 16:14:59	This log contains information about the import schema operation into project 'AdventureWorks2012' on computer 'DESKTOP-IGO3PTE' by user 'Shani'.
+13-02-2019 16:14:59	Deserializing model
+13-02-2019 16:15:00	Resolving model
+13-02-2019 16:15:01	Visiting imported model for types
+13-02-2019 16:15:03	Scanning project for duplicate elements
+13-02-2019 16:15:03	Finished duplicate element processing
+13-02-2019 16:15:32	Processing extra files
+13-02-2019 16:15:32	Finished importing Data-tier Application file.
+13-02-2019 16:15:32	A summary of the import was saved to the following location: C:\Users\Shani\source\repos\AdventureWorks2012\AdventureWorks2012\Import Schema Logs\AdventureWorks2012_20190213104459.log
+13-02-2019 16:15:32	Click Finish to continue...
